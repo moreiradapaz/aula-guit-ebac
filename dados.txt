@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
+-Primeiro Nome: TIAGO DA PAZ MOREIRA
 -Profissão:
--Cidade:
+-Cidade: SÃO JOSE DOS CAMPOS
 -O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Feedback sobre o curso Qualidade de Software: EXCELENTE
+-Feedback sobre a plataforma de estudo da EBAC: EXCELENTE
 
 Obrigado!!!
 
